@@ -29,7 +29,7 @@ if(!class_exists('WP_Video_Ads')) {
         }
 
         public function github_updater() {
-            if (is_admin()) { // note the use of is_admin() to double check that this is happening in the admin
+            if (is_admin()) {
                 require 'plugin-update-checker/plugin-update-checker.php';
                 $className = PucFactory::getLatestClassVersion('PucGitHubChecker');
                 $myUpdateChecker = new $className(
