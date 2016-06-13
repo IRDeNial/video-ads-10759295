@@ -12,8 +12,6 @@
 
 defined('ABSPATH') or die();
 
-require_once('updater.php');
-
 add_action( 'init', 'github_plugin_updater_test_init' );
 
 function github_plugin_updater_test_init() {
@@ -28,7 +26,5 @@ function github_plugin_updater_test_init() {
         $myUpdateChecker->setAccessToken('82dc1d82f96dc923c347e8ae025d967fc1fc5cf9 ');
     }
 }
-
-echo("Kool");
 
 ?>
