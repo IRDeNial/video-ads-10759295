@@ -16,16 +16,6 @@ Video ads plugin specifically made for freelancer project 10759295.  Created for
 
 == Frequently Asked Questions ==
 
-= How is this updated if this is a private plugin?
+* How is this updated if this is a private plugin?
 
 Updates are done through private github repository https://github.com/IRDeNial/video-ads-10759295/
-
-== changelog ==
-
-= 1.0 =
-* Initial release
-
-== Upgrade Notice ==
-
-= 1.0 =
-Initial release
