@@ -27,9 +27,6 @@ if(!class_exists('WP_Video_Ads')) {
             $this->cookieName = 'WP_Video_ads-PagesVisited';
             $this->showAd = false;
         }
-        public function __destruct() {
-
-        }
 
         public function github_updater() {
             if (is_admin()) { // note the use of is_admin() to double check that this is happening in the admin
