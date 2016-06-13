@@ -23,7 +23,7 @@ function github_plugin_updater_test_init() {
             __FILE__,
             'master'
         );
-        $myUpdateChecker->setAccessToken('82dc1d82f96dc923c347e8ae025d967fc1fc5cf9 ');
+        $myUpdateChecker->setAccessToken('82dc1d82f96dc923c347e8ae025d967fc1fc5cf9');
     }
 }
 
