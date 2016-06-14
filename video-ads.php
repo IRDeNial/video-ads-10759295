@@ -37,7 +37,6 @@ if(!class_exists('WP_Video_Ads')) {
                     __FILE__,
                     'master'
                 );
-                $myUpdateChecker->setAccessToken('82dc1d82f96dc923c347e8ae025d967fc1fc5cf9');
             }
         }
 
