@@ -13,6 +13,9 @@ Video ads plugin specifically made for freelancer project 10759295
 == Description ==
 
 Video ads plugin specifically made for freelancer project 10759295.  Created for project https://www.freelancer.com/projects/php/Write-some-Code-for-web/
+Did not pay, released for free.
+
+A wordpress plugin that allows for onclick ads to be shown (In a new window) when a video is played on a wordpress website ONLY ONCE within 24 hours.  Should work with any theme that utilizes the "video" tag for embedding.  Will *NOT* work with YouTube.
 
 == Frequently Asked Questions ==
 
