@@ -1,15 +1,11 @@
-# Video Ads For Freelancer Project 10759295
+# Video Ads
 Contributors: IRDeNial
 
-Donate link: https://md5.xyz/
+Requires at least: WordPress version 4.1
 
-Tags: video, ads, advertisements
+Tested up to: WordPress version 4.5.2
 
-Requires at least: 4.1
-
-Tested up to: 4.5.2
-
-Stable tag: 4.5.2
+Stable tag: WordPress version 4.5.2
 
 License: GPLv3 or later
 
@@ -21,4 +17,4 @@ Video ads plugin specifically made for freelancer project 10759295.  Did not pay
 
 Video ads plugin specifically made for freelancer project 10759295.  Created for project https://www.freelancer.com/projects/php/Write-some-Code-for-web/
 
-Allow for onclick ads to be shown (In a new window) when a video is played on a wordpress website.  Should work with any theme that utilizes the "video" tag for embedding.  Will *NOT* work with YouTube.
+A wordpress plugin that allows for onclick ads to be shown (In a new window) when a video is played on a wordpress website ONLY ONCE within 24 hours.  Should work with any theme that utilizes the "video" tag for embedding.  Will *NOT* work with YouTube.
