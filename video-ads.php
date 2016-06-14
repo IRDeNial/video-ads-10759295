@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Video Advertisemenets
- * Version: 1.0
+ * Version: 1.1
  * License: GPL3
  * Description: Shows ads only once on a video page 
  * Author: Mike Orozco
